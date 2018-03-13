@@ -1,0 +1,1 @@
+# weekend-salary-calc-server
